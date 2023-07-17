@@ -1,0 +1,53 @@
+<aside id="filter-menu" class="js-side-nav side-nav side-nav-inverted side-nav-fixed">
+    <nav class="js-side-nav-container side-nav__container">
+    <button class="js-menu-hide side-nav__hide filter_done_btn">
+        Visualizar
+    </button> 
+    
+    <header class="side-nav__header">
+        <h2>
+        Camadas
+        </h2>
+        <button id="clear-filters-btn" class="link-button">✕ Limpar filtros</button>
+
+        <!-- <div class="setting-checkbox-container">
+            <input type="checkbox" id="show-bike-layer">
+            <label for="show-bike-layer">
+            Mostrar ciclovias e ciclofaixas
+            <a id="ciclovias-help-tooltip" class="glyphicon glyphicon-question-sign help-tooltip-trigger" data-html="true" data-toggle="tooltip" data-placement="auto top" role="button" tabindex="0" data-title="Combinamos dados de várias fontes pra trazer o estado mais atualizado possível das ciclovias, mas mesmo assim pode não estar super de acordo com a realidade. Nos dá um toque se reparar em algo. :)"></a>
+            </label>
+        </div> -->
+    </header>
+
+    <div class="side-nav__content">
+        <div>
+            <h3>Ver somente:</h3>
+            <ul class="filter-list">
+                <li class="filter-list-item">
+                    <input type="checkbox" class="filter-checkbox" name="objectType" id="objectType_bikelane" data-prop="type" data-value="bikelane" value="bikelane" checked/>
+                    <label id="label_bikelane" class="filter-label" for="objectType_bikelane">Ciclovias</label>
+                </li>
+                <li class="filter-list-item">
+                    <input type="checkbox" class="filter-checkbox" name="objectType" id="objectType_rack" data-prop="type" data-value="rack" value="rack" checked/>
+                    <label id="label_rack" class="filter-label" for="objectType_rack">Bicicletários</label>
+                </li>
+                <li class="filter-list-item">
+                    <input type="checkbox" class="filter-checkbox" name="objectType" id="objectType_bicipark" data-prop="type" data-value="biciparque" value="biciparque" checked/>
+                    <label id="label_bicipark" class="filter-label" for="objectType_bicipark">Biciparques</label>
+                </li>
+                <li class="filter-list-item">
+                    <input type="checkbox" class="filter-checkbox" name="objectType" id="objectType_request" data-prop="type" data-value="request" value="request"/>
+                    <label id="label_request" class="filter-label" for="objectType_request">Pedidos</label>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- <footer>
+        <div id="filter-results-counter-container">
+        <span class="glyphicon glyphicon-chevron-left"></span> Mostrando <span id="filter-results-counter"></span> de <span id="filter-results-total"></span> bicicletários.
+        </div>
+    </footer> -->
+
+    </nav>
+</aside>

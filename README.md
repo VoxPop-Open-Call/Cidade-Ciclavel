@@ -1,13 +1,8 @@
 # Cidade-Ciclavel
 
-![alt tag](https://www.bikedeboa.com.br/favicons/icon-192x192.png)
-
-# Cidade Ciclável
-
-
 **Cidade Ciclável** is an open and colaborative map of places to park your bike. It's focused on being super easy to use and also educative. With the app you can search for bike parkings nearby, and at the same time you learn if they are safe to use and why they are so.
 
-We believe that the bicycle is the future of urban mobility, and that having better bike parkings is a great way of incentivating the bike culture in the cities. This project intends to push forward the discussion of what are good bike parkings, at the same time we collect data about the presence and evolution of this kind of structure in the cities of Brazil.
+We believe that the bicycle is the future of urban mobility, and that having better bike parkings is a great way of incentivating the bike culture in the cities. This project intends to push forward the discussion of what are good bike parkings, at the same time we collect data about the presence and evolution of this kind of structure in the cities of Portugal.
 
 This project is a (Progressive) Web App, which means it loads and runs fast accross all platforms and device sizes, as well as is fully indexable by search engines.
 
@@ -39,7 +34,7 @@ gulp
 ## Contact
 
 **Come say hello to us!** Let's chat about urban cycling, mobility, UX Design, apps, PWAs, etc.
-This project is a spin-off Bike de Boa project. 
+This project is a based on a brazilian project named Bike de Boa. 
 
 
 # Partnerships

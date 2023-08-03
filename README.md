@@ -6,9 +6,12 @@ We believe that the bicycle is the future of urban mobility, and that having bet
 
 This project is a (Progressive) Web App, which means it loads and runs fast accross all platforms and device sizes, as well as is fully indexable by search engines.
 
+Cidade Ciclável is maintaned by MUBI and is co-financed by the European Regional Development Fund through the Urban Innovative Actions Initiative
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot of webapp the main map view](https://i.imgur.com/HxsYdu6.png)
+![Screenshot of webapp the main map view](https://i.imgur.com/hKsSSBL.png)
 
 ## Data
 
@@ -24,9 +27,9 @@ This web client consumes from an open API. It licensed under [Creative Commons A
 ### Getting started
 
 ```bash
-git clone https://github.com/bikedeboa.git
+git clone https://github.com/cidadeciclavel.git
 npm install
-gulp 
+npm start 
 ```
 
 * * *
@@ -34,10 +37,5 @@ gulp
 ## Contact
 
 **Come say hello to us!** Let's chat about urban cycling, mobility, UX Design, apps, PWAs, etc.
-This project is a based on a brazilian project named Bike de Boa. 
-
-
-# Partnerships
-
-This project is maintaned by MUBI and is co-financed by the European Regional Development Fund through the Urban Innovative Actions Initiative
+cidadeciclavel@mubi.pt 
 
